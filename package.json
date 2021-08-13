@@ -1,0 +1,18 @@
+{
+  "name": "@mtb-game/modkit-docs",
+  "version": "0.1.0",
+  "description": "The modkit documentation",
+  "repository": "https://github.com/ls-lint/docs",
+  "license": "MIT",
+  "dependencies": {
+    "@ls-lint/ls-lint": "^1.10.0",
+    "vuepress": "^1.8.2"
+  },
+  "scripts": {
+    "docs:build": "vuepress build",
+    "docs:dev": "vuepress dev"
+  },
+  "devDependencies": {
+    "@vuepress/plugin-google-analytics": "^1.8.2"
+  }
+}
