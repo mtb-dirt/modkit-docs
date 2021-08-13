@@ -32,6 +32,14 @@ module.exports = {
         content: 'https://modkit.mtb-dirt.com',
       },
     ],
+    [
+      'link',
+      {
+        href: 'https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&display=swap',
+        rel: 'stylesheet',
+        type: 'text/css',
+      },
+    ],
     /*[
       'meta',
       {
@@ -45,14 +53,6 @@ module.exports = {
         rel: 'icon',
         href: '/favicon.ico',
         type: 'image/x-icon',
-      },
-    ],*/
-    [
-      'link',
-      {
-        href: 'https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&display=swap',
-        rel: 'stylesheet',
-        type: 'text/css',
       },
     ],
     [
@@ -79,7 +79,7 @@ module.exports = {
         a.appendChild(r);
         })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
       `,
-    ],
+    ],*/
     [
       'link',
       {
@@ -153,7 +153,7 @@ module.exports = {
     [
       '@vuepress/google-analytics',
       {
-        'ga': 'UA-171718804-1', // UA-00000000-0
+        'ga': 'UA-204664217-2', // UA-00000000-0
       },
     ],
   ],
