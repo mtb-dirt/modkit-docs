@@ -32,7 +32,7 @@ module.exports = {
         content: 'https://modkit.mtb-dirt.com',
       },
     ],
-    [
+    /*[
       'meta',
       {
         property: 'og:image',
@@ -46,7 +46,7 @@ module.exports = {
         href: '/favicon.ico',
         type: 'image/x-icon',
       },
-    ],
+    ],*/
     [
       'link',
       {
@@ -98,7 +98,7 @@ module.exports = {
       'script',
       {},
       `
-        window.addEventListener("load", function(){window.wpcc.init({"corners":"small","colors":{"popup":{"background":"#f4f4f4","text":"#000000","border":"#555555"},"button":{"background":"#4585ab","text":"#ffffff"}},"position":"bottom-right","padding":"small","margin":"large","transparency":"5","content":{"href":"https://modkit.mtb-dirt.com/1.x/legal/privacy.html"}})});
+        window.addEventListener("load", function(){window.wpcc.init({"corners":"small","colors":{"popup":{"background":"#f4f4f4","text":"#000000","border":"#555555"},"button":{"background":"#eb5e42","text":"#ffffff"}},"position":"bottom-right","padding":"small","margin":"large","transparency":"5","content":{"href":"https://modkit.mtb-dirt.com/1.x/legal/privacy.html"}})});
       `,
     ],
   ],
