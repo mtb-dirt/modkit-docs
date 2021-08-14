@@ -138,6 +138,15 @@ module.exports = {
           ]),
         },
         {
+          title: 'The Basics',
+          collapsable: false,
+          children: prefix('the-basics', [
+            'start-scene',
+            'images',
+            'build',
+          ]),
+        },
+        {
           title: 'Legal',
           collapsable: false,
           children: prefix('legal', [
