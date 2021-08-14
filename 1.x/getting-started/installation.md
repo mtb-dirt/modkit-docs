@@ -11,7 +11,7 @@ There are several ways for you to install the MTB Dirt Modkit without any third 
 - Unity 2020.3+ and Unity HDRP
 - [Git](https://git-scm.com/downloads)
 
-## Unity Package Manager
+### Unity Package Manager
 
 The easiest way to install the MTB Dirt Modkit is by using the Unity Package Manager:
 
