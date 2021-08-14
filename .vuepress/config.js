@@ -40,14 +40,14 @@ module.exports = {
         type: 'text/css',
       },
     ],
-    /*[
+    [
       'meta',
       {
         property: 'og:image',
         content: '/open-graph-img.png',
       },
     ],
-    [
+    /*[
       'link',
       {
         rel: 'icon',

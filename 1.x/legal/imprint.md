@@ -15,7 +15,7 @@ Germany
 ## Kontakt
 
 E-Mail: info@twys.io  
-Telefon: 030-54906997  
+Telefon: 030-54906997
 
 ## Sitz, Registereintrag:
 
