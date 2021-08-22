@@ -33,9 +33,9 @@ The modkit provides a one click solution to build your mod.
 
 ![Asset Labels](/1.x/the-basics/build/build.gif)
 
-:::warning Images
-Just a small reminder that you need to put the mod images `preview.png` and `loading.png` into `%userprofile%\AppData\LocalLow\Lucas Loeffel\MTB Dirt\Mods\Trail Park`.
-:::
+### Images
+
+Now you can put the mod images `preview.png` and `loading.png` into `%userprofile%\AppData\LocalLow\Lucas Loeffel\MTB Dirt\Mods\Trail Park`.
 
 ### Ready to go
 

@@ -2,14 +2,14 @@
 
 [[toc]]
 
-The MTB Dirt mod system **requires** two images for a single mod:
+The MTB Dirt mod system **requires** two images for a single mod **after building your mod**:
 
 - `preview.png`
 - `loading.png`
 
 :::warning
-Keep in mind both images must exists in your mod directory to show up your mod in the menu
-:::  
+Keep in mind both images must exists in your mod directory later to show up your mod in the menu
+:::
 
 #### Preview Image
 
