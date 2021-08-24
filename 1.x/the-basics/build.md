@@ -27,6 +27,12 @@ You need to label your Scene with `scene.map`
 
 ![Asset Labels](/1.x/the-basics/build/asset-labels.gif)
 
+### Trajectory System
+
+:::warning
+Your lowest point of your map needs to be greater then >= 0 on the Y axis!
+:::
+
 ### Build your mod
 
 The modkit provides a one click solution to build your mod.
